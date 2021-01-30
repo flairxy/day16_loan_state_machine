@@ -1,7 +1,5 @@
 <template>
   <div v-if="isDrizzleInitialized" id="app">
-    <img alt="Vue logo" src="./assets/logo.png" />
-
     <div class="section">
       <StateMachine />
     </div>
